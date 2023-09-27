@@ -8,6 +8,5 @@ for char in text:
         print(current_number)
         current_number = ''
 
-# Проверка на наличие последнего числа, если оно есть в конце строки
 if current_number:
     print(current_number)
